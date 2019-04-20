@@ -1,13 +1,17 @@
 # Blog
 Blogging Web Application
 
-Activate virtual environment:
-source bin/activate
+To activate the virtual environment: 
+
+- source bin/activate
 
 Run server:
-python manage.py runserver
 
-Deactivate virtual environment:
-deactivate
+- cd thanosback
+- python manage.py runserver
+
+To deactivate the virtual environment:
+
+- deactivate
 
 
